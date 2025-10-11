@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 15649_N과_M_2 {
+public class 15650_N과_M_2 {
 
     public static boolean[] visited;
     public static int[] arr;
