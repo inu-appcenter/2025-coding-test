@@ -15,4 +15,4 @@ while (T--) {
   idx++;
 }
 
-console.log(sum);
+console.log(sum % 1234567891);
